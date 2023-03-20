@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mapplaceapi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAuCV5TkLaDW-xHk4TSndZCg1EVFXwJ0dg</string>
+</resources>
